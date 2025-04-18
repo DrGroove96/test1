@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db 
+.vercel
+
+# Large files and datasets
+*.csv
+*.xlsx
+*.zip
+*.rar
+*.mp4
+*.mov
+node_modules/
+.env
+.vercel
+
+# Add any other large file types you don't need for the website
